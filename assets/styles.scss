@@ -3,7 +3,7 @@ title: false
 styles: true
 ---
 
-@import "alembic";
+// See link for customization: https://github.com/daviddarnes/alembic#customising
 
 // Background colours
 $backgroundColour: #F9F8F0 !default;
@@ -44,3 +44,6 @@ $monospacetype: (
 
 // Font import, if you're using a non-standard web font
 @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
+
+// Import Alembic theme styles
+@import "alembic";
