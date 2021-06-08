@@ -7,7 +7,7 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "I'm driven to initiate long-term solutions for public health and environmental issues through a multidisciplinary approach to research, project management, and technology."
 ---
 
-Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
+I'm driven to initiate long-term solutions for public health and environmental issues through a multidisciplinary approach to research, project management, and technology.
 
 {% include button.html text="GitHub" icon="github" link="https://github.com/gilagoldstein" color="#0366d6" %} {% include button.html text="Twitter" icon="twitter" link="https://twitter.com/gila_goldstein" color="#0d94e7" %} {% include button.html text="LinkedIn" link="https://www.linkedin.com/in/gilagoldstein" %}
 
