@@ -98,7 +98,7 @@ lang: en-US # Set the site language
 title: "Gila Goldstein" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Gila Goldstein is an MPH student at Columbia Mailman School of Public Health." # Site description and default description, also used in jekyll-seo-tag
-url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
+url: "https://www.gilaygoldstein.com" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/gilagoldstein/website"
 email: "gila.y.goldstein@gmail.com"
@@ -130,7 +130,7 @@ navigation_header:
 
 navigation_footer:
 - title: Created by Gila Goldstein
-  url: https://darn.es
+  url: https://www.gilaygoldstein.com
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/gila_goldstein
