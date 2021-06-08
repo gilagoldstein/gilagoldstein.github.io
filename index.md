@@ -15,4 +15,4 @@ I'm driven to initiate long-term solutions for public health and environmental i
 
 - First year MPH student at Columbia Mailman School interested in social determinants of health. 
 - Lover of historical fiction, biographies, and well-narrated audiobooks.
-- A tea fanatic.  
+- A green tea fanatic.
