@@ -13,10 +13,10 @@ I'm driven to initiate long-term solutions for public health and environmental i
 
 ## Interests
 
-- First year MPH student at Columbia Mailman School interested in social determinants of health. 
+- MPH student at Columbia Mailman School interested in social determinants of health. 
 - Lover of historical fiction, biographies, and well-narrated audiobooks.
 - Travel enthusiest: Ask me about my time backpacking or as a luxury travel agent.
-- A green tea fanatic and the #1 french fries fan.
+- A green tea fanatic and the unofficial #1 fan of french fries.
 
 ## Current Project
 
