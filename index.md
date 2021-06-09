@@ -1,7 +1,7 @@
 ---
 title: About Me
 feature_text: |
-  ### Gila Y Goldstein
+  # Gila Y Goldstein
   Let's improve community and environmental health, together.
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "I'm driven to initiate long-term solutions for public health and environmental issues through a multidisciplinary approach to research, project management, and technology."
