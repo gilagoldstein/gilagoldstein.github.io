@@ -2,7 +2,7 @@
 title: About Me
 feature_text: |
   ## Gila Goldstein
-  Welcome to my personal website! 
+  Community and environmental health
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "I'm driven to initiate long-term solutions for public health and environmental issues through a multidisciplinary approach to research, project management, and technology."
 ---
@@ -19,4 +19,4 @@ I'm driven to initiate long-term solutions for public health and environmental i
 
 ## Current Project
 
-I quantify and analyze population mortality rates using Guatemalan census data at the University of Denver Ethnography Lab. I work to highlight health inequality and communicate those disparities through academic content (see published papers).
+I quantify and analyze population mortality rates using Guatemalan census data at the University of Denver Ethnography Lab. I work to highlight health inequality and communicate those disparities through academic content (check out my published papers).
