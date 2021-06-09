@@ -16,3 +16,7 @@ I'm driven to initiate long-term solutions for public health and environmental i
 - First year MPH student at Columbia Mailman School interested in social determinants of health. 
 - Lover of historical fiction, biographies, and well-narrated audiobooks.
 - A green tea fanatic.
+
+## Current Project
+
+I quantify and analyze population mortality rates using Guatemalan census data at the University of Denver Ethnography Lab. I work to highlight health inequality and communicate those disparities through academic content (see published papers).
