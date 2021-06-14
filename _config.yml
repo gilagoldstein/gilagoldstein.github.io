@@ -49,8 +49,6 @@ social: # jekyll-seo-tag > social overrides
   # extensions: ["strikethrough", "autolink", "table"]
 
 # 4. Jekyll settings
-sass:
-  style: compressed # Style compression
 permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
 excerpt_separator: <!-- more --> # Marks end of excerpt in posts
 timezone: America/New_York # Timezone for blog posts and alike
@@ -95,16 +93,29 @@ email: "gila.y.goldstein@gmail.com"
 # google_analytics_anonymize_ip: ''
 # service_worker: false # Will turn off the service worker if set to false
 
+# 8. Site favicons & manifest icons
+favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
+  16: '/assets/logos/logo@16px.png'
+  32: '/assets/logos/logo@32px.png'
+  96: '/assets/logos/logo@96px.png'
+  120: '/assets/logos/logo@120px.png'
+  144: '/assets/logos/logo@144px.png'
+  180: '/assets/logos/logo@180px.png'
+  512: '/assets/logos/logo@512px.png'
+  1024: '/assets/logos/logo@1024px.png'
+
 # 9. Site navigation
 navigation_header:
 - title: Home
   url: /
+- title: Elements
+  url: /elements/
 - title: Blog
   url: /blog/
 
 navigation_footer:
 - title: Created by Gila Goldstein
-  url: "#top"
+  url: https://www.gilaygoldstein.com
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/gila_goldstein
